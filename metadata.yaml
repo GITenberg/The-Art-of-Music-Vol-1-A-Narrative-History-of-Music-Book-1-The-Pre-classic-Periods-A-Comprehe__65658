@@ -1,5 +1,8 @@
 _repo: The-Art-of-Music-Vol-1-A-Narrative-History-of-Music-Book-1-The-Pre-classic-Periods-A-Comprehe__65658
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65658-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Saerchinger, César
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48933
     wikipedia: https://en.wikipedia.org/wiki/Daniel_Gregory_Mason
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65658#The-Art-of-Music-Vol-1-A-Narrative-History-of-Music-Book-1-The-Pre-classic-Periods-A-Comprehe_
 gutenberg_issued: '2021-06-21'
 gutenberg_type: Text
 identifiers:
